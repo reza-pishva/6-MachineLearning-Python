@@ -4,3 +4,4 @@
 - Dimension reduction by PCA and TSNE
 - Evaluation
 - Correlation
+- Outliers removing
